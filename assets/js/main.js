@@ -1,4 +1,5 @@
 $(function(){
+    console.log("test")
 
   $('.carousel__inner').slick({
     arrows: false,
